@@ -1,0 +1,13 @@
+
+bgFX.png
+size: 380,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feature_text_light_reel/mf_text_shine
+  rotate: false
+  xy: 1, 1
+  size: 378, 173
+  orig: 378, 173
+  offset: 0, 0
+  index: -1

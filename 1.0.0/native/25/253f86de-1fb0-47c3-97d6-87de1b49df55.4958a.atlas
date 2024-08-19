@@ -1,0 +1,83 @@
+
+bgFX.png
+size: 939,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reel_sweep_light/mf_respin_00
+  rotate: true
+  xy: 1, 1
+  size: 99, 314
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_01
+  rotate: false
+  xy: 738, 88
+  size: 99, 315
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_02
+  rotate: false
+  xy: 839, 88
+  size: 99, 315
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_03
+  rotate: true
+  xy: 1, 203
+  size: 99, 315
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_04
+  rotate: true
+  xy: 318, 203
+  size: 99, 315
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_05
+  rotate: true
+  xy: 1, 102
+  size: 99, 315
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_06
+  rotate: true
+  xy: 1, 304
+  size: 99, 316
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_07
+  rotate: true
+  xy: 319, 304
+  size: 99, 316
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_08
+  rotate: false
+  xy: 637, 87
+  size: 99, 316
+  orig: 99, 316
+  offset: 0, 0
+  index: -1
+reel_sweep_light/mf_respin_09
+  rotate: true
+  xy: 318, 102
+  size: 99, 315
+  orig: 99, 316
+  offset: 0, 1
+  index: -1
+reel_sweep_light/mf_respin_10
+  rotate: true
+  xy: 317, 1
+  size: 99, 288
+  orig: 99, 315
+  offset: 0, 27
+  index: -1

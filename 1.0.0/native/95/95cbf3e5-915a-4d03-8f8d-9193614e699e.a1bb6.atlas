@@ -1,0 +1,153 @@
+
+x10.png
+size: 2015,1531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin/mf_mtp_coin_00
+  rotate: true
+  xy: 2, 6
+  size: 3, 2
+  orig: 488, 461
+  offset: 0, 459
+  index: -1
+coin/mf_mtp_coin_01
+  rotate: false
+  xy: 432, 997
+  size: 79, 86
+  orig: 488, 461
+  offset: 211, 212
+  index: -1
+coin/mf_mtp_coin_02
+  rotate: false
+  xy: 280, 933
+  size: 150, 150
+  orig: 488, 461
+  offset: 177, 173
+  index: -1
+coin/mf_mtp_coin_03
+  rotate: true
+  xy: 1624, 108
+  size: 219, 207
+  orig: 488, 461
+  offset: 144, 142
+  index: -1
+coin/mf_mtp_coin_04
+  rotate: true
+  xy: 1231, 814
+  size: 275, 254
+  orig: 488, 461
+  offset: 117, 118
+  index: -1
+coin/mf_mtp_coin_05
+  rotate: true
+  xy: 865, 9
+  size: 314, 292
+  orig: 488, 461
+  offset: 100, 97
+  index: -1
+coin/mf_mtp_coin_06
+  rotate: false
+  xy: 865, 325
+  size: 357, 319
+  orig: 488, 461
+  offset: 80, 80
+  index: -1
+coin/mf_mtp_coin_09
+  rotate: true
+  xy: 1624, 329
+  size: 398, 389
+  orig: 488, 461
+  offset: 44, 40
+  index: -1
+coin/mf_mtp_coin_10
+  rotate: true
+  xy: 1224, 2
+  size: 416, 398
+  orig: 488, 461
+  offset: 36, 36
+  index: -1
+coin/mf_mtp_coin_11
+  rotate: false
+  xy: 1491, 729
+  size: 428, 408
+  orig: 488, 461
+  offset: 30, 29
+  index: -1
+coin/mf_mtp_coin_12
+  rotate: true
+  xy: 1073, 1091
+  size: 438, 416
+  orig: 488, 461
+  offset: 25, 24
+  index: -1
+coin/mf_mtp_coin_13
+  rotate: true
+  xy: 280, 1085
+  size: 444, 425
+  orig: 488, 461
+  offset: 22, 19
+  index: -1
+coin/mf_mtp_coin_14
+  rotate: true
+  xy: 434, 17
+  size: 448, 429
+  orig: 488, 461
+  offset: 20, 16
+  index: -1
+coin/mf_mtp_coin_15
+  rotate: true
+  xy: 2, 11
+  size: 454, 430
+  orig: 488, 461
+  offset: 16, 15
+  index: -1
+coin/mf_mtp_coin_16
+  rotate: true
+  xy: 2, 467
+  size: 455, 433
+  orig: 488, 461
+  offset: 15, 13
+  index: -1
+coin/mf_mtp_coin_17
+  rotate: true
+  xy: 1491, 1139
+  size: 390, 438
+  orig: 488, 461
+  offset: 13, 10
+  index: -1
+coin/mf_mtp_coin_18
+  rotate: false
+  xy: 835, 646
+  size: 394, 440
+  orig: 488, 461
+  offset: 10, 8
+  index: -1
+coin/mf_mtp_coin_19
+  rotate: false
+  xy: 437, 554
+  size: 396, 441
+  orig: 488, 461
+  offset: 8, 8
+  index: -1
+coin/mf_mtp_coin_20
+  rotate: false
+  xy: 707, 1088
+  size: 364, 441
+  orig: 488, 461
+  offset: 8, 8
+  index: -1
+fx_shine
+  rotate: true
+  xy: 2, 924
+  size: 605, 276
+  orig: 605, 276
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 1231, 420
+  size: 392, 224
+  orig: 394, 226
+  offset: 1, 1
+  index: -1

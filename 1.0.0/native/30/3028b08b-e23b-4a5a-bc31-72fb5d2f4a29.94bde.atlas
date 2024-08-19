@@ -1,0 +1,48 @@
+
+coin.png
+size: 213,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin/bw_coin_0
+  rotate: false
+  xy: 83, 57
+  size: 77, 77
+  orig: 84, 84
+  offset: 4, 3
+  index: -1
+coin/bw_coin_1
+  rotate: true
+  xy: 83, 136
+  size: 75, 78
+  orig: 84, 84
+  offset: 5, 3
+  index: -1
+coin/bw_coin_2
+  rotate: true
+  xy: 2, 2
+  size: 60, 76
+  orig: 84, 84
+  offset: 12, 4
+  index: -1
+coin/bw_coin_3
+  rotate: true
+  xy: 80, 4
+  size: 51, 76
+  orig: 84, 84
+  offset: 17, 4
+  index: -1
+coin/bw_coin_4
+  rotate: true
+  xy: 2, 64
+  size: 68, 77
+  orig: 84, 84
+  offset: 9, 3
+  index: -1
+coin/bw_coin_5
+  rotate: false
+  xy: 2, 134
+  size: 79, 77
+  orig: 84, 84
+  offset: 3, 4
+  index: -1

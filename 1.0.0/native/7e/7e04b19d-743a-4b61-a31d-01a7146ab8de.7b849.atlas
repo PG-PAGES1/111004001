@@ -1,0 +1,13 @@
+
+UI.png
+size: 98,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feature_text_light_reel/mf_reel_bg
+  rotate: false
+  xy: 1, 1
+  size: 96, 245
+  orig: 96, 245
+  offset: 0, 0
+  index: -1

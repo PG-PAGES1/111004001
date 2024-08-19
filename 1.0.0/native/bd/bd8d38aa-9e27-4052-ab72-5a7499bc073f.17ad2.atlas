@@ -1,0 +1,62 @@
+
+funiu_shou.png
+size: 622,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_jump_hand_effects/mf_chac_snap_00
+  rotate: false
+  xy: 423, 27
+  size: 149, 146
+  orig: 152, 150
+  offset: 1, 3
+  index: -1
+character_jump_hand_effects/mf_chac_snap_01
+  rotate: false
+  xy: 1, 253
+  size: 281, 282
+  orig: 295, 294
+  offset: 10, 8
+  index: -1
+character_jump_hand_effects/mf_chac_snap_02
+  rotate: false
+  xy: 1, 1
+  size: 255, 250
+  orig: 264, 258
+  offset: 4, 5
+  index: -1
+character_jump_hand_effects/mf_chac_snap_04
+  rotate: false
+  xy: 284, 356
+  size: 187, 179
+  orig: 198, 191
+  offset: 8, 6
+  index: -1
+character_jump_hand_effects/mf_chac_snap_05
+  rotate: false
+  xy: 284, 175
+  size: 186, 179
+  orig: 197, 185
+  offset: 7, 3
+  index: -1
+character_jump_hand_effects/mf_chac_snap_06
+  rotate: true
+  xy: 473, 363
+  size: 172, 148
+  orig: 182, 160
+  offset: 7, 3
+  index: -1
+character_jump_hand_effects/mf_chac_snap_07
+  rotate: true
+  xy: 472, 193
+  size: 161, 142
+  orig: 179, 142
+  offset: 10, 0
+  index: -1
+character_jump_hand_effects/mf_chac_snap_08
+  rotate: false
+  xy: 258, 33
+  size: 163, 140
+  orig: 178, 142
+  offset: 6, 1
+  index: -1

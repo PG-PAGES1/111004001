@@ -1,0 +1,48 @@
+
+bgFX.png
+size: 978,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mf_reel_glow_18
+  rotate: false
+  xy: 1, 1
+  size: 161, 300
+  orig: 161, 300
+  offset: 0, 0
+  index: -1
+mf_reel_glow_19
+  rotate: false
+  xy: 164, 1
+  size: 161, 300
+  orig: 161, 300
+  offset: 0, 0
+  index: -1
+mf_reel_glow_20
+  rotate: false
+  xy: 327, 1
+  size: 161, 300
+  orig: 161, 300
+  offset: 0, 0
+  index: -1
+mf_reel_glow_21
+  rotate: false
+  xy: 490, 1
+  size: 161, 300
+  orig: 161, 300
+  offset: 0, 0
+  index: -1
+mf_reel_glow_23
+  rotate: false
+  xy: 653, 1
+  size: 161, 300
+  orig: 161, 300
+  offset: 0, 0
+  index: -1
+mf_reel_glow_25
+  rotate: false
+  xy: 816, 3
+  size: 161, 298
+  orig: 161, 300
+  offset: 0, 0
+  index: -1

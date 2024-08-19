@@ -1,0 +1,139 @@
+
+runFast_2.jpg
+size: 1643,1643
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_border/mf_fastspin_00
+  rotate: false
+  xy: 2, 1067
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_01
+  rotate: false
+  xy: 2, 491
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_02
+  rotate: true
+  xy: 2, 278
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_03
+  rotate: true
+  xy: 2, 65
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_04
+  rotate: true
+  xy: 578, 1430
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_05
+  rotate: false
+  xy: 215, 1067
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_06
+  rotate: false
+  xy: 215, 491
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_07
+  rotate: false
+  xy: 1154, 1067
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_08
+  rotate: false
+  xy: 428, 491
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_09
+  rotate: false
+  xy: 1367, 1067
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_10
+  rotate: true
+  xy: 428, 1217
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_11
+  rotate: false
+  xy: 641, 641
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_12
+  rotate: false
+  xy: 854, 641
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_13
+  rotate: true
+  xy: 1067, 854
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_14
+  rotate: true
+  xy: 1067, 641
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_15
+  rotate: false
+  xy: 641, 65
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_16
+  rotate: false
+  xy: 854, 65
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_17
+  rotate: true
+  xy: 1067, 428
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1
+fx_border/mf_fastspin_18
+  rotate: true
+  xy: 1067, 215
+  size: 211, 574
+  orig: 211, 574
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ui.png
+size: 1584,1584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glow
+  rotate: false
+  xy: 1141, 1223
+  size: 357, 360
+  orig: 364, 365
+  offset: 4, 0
+  index: -1
+fx_shine
+  rotate: true
+  xy: 1, 1
+  size: 658, 744
+  orig: 658, 744
+  offset: 0, 0
+  index: -1
+itemBg_1
+  rotate: true
+  xy: 747, 157
+  size: 568, 829
+  orig: 568, 944
+  offset: 0, 14
+  index: -1
+itemBg_2
+  rotate: false
+  xy: 571, 727
+  size: 568, 856
+  orig: 568, 944
+  offset: 0, 16
+  index: -1
+itemBg_3
+  rotate: false
+  xy: 1, 661
+  size: 568, 922
+  orig: 568, 944
+  offset: 0, 15
+  index: -1
